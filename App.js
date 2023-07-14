@@ -21,11 +21,7 @@ export default function App() {
           <Stack.Screen name="login" component={login} />
           <Stack.Screen name="ShowAll" component={showAll} />
           <Stack.Screen name="contacts" component={LocalStorageDemo} />
-          <Stack.Screen name="homepage" component={homepage} />
-          <Stack.Screen name="codeforces" component={codeforces} />
-          <Stack.Screen name="practices" component={practices} />
-          <Stack.Screen name="timelimiterrors" component={timelimiterrors} />
-          <Stack.Screen name="upcomingcontest" component={upcomingcontest} />
+
         </Stack.Navigator>
       </NavigationContainer>
     </>
