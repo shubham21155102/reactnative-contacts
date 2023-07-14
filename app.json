@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "codeforces-api",
+    "slug": "codeforces-status",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://scontent.flko10-1.fna.fbcdn.net/v/t39.30808-6/273049731_1403266113439812_1272744330762132156_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7c63JLtmrE0AX_IQTi-&_nc_ht=scontent.flko10-1.fna&oh=00_AfB7oKtAgy7ztWyG1rVBWrFpa0dM17Ef3VuJmOGx7dy1ug&oe=63E1B0D0",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "https://scontent.flko10-1.fna.fbcdn.net/v/t39.30808-6/273049731_1403266113439812_1272744330762132156_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7c63JLtmrE0AX_IQTi-&_nc_ht=scontent.flko10-1.fna&oh=00_AfB7oKtAgy7ztWyG1rVBWrFpa0dM17Ef3VuJmOGx7dy1ug&oe=63E1B0D0",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.codeforcesapi",
+      "adaptiveIcon": {
+        "foregroundImage": "https://scontent.flko10-1.fna.fbcdn.net/v/t39.30808-6/273049731_1403266113439812_1272744330762132156_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7c63JLtmrE0AX_IQTi-&_nc_ht=scontent.flko10-1.fna&oh=00_AfB7oKtAgy7ztWyG1rVBWrFpa0dM17Ef3VuJmOGx7dy1ug&oe=63E1B0D0",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5410a302-b32d-4a52-b819-ef3df0cd3f1c"
+      }
+    },
+    "owner": "shubham21155102"
+  }
+}
