@@ -3,13 +3,10 @@ import { StyleSheet, Text, View } from 'react-native';
 import React from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import codeforces from "./src/screens/codeforces";
-import homepage from "./src/screens/homepage";
+
+
 import login from './src/screens/LogIn';
-import practices from "./src/screens/practices";
-import upcomingcontest from "./src/screens/upcomingcontest";
-import timelimiterrors from "./src/screens/timelimiterrors";
-// import Contacts from './src/screens/contacts';
+
 import LocalStorageDemo from './src/screens/addcontacts';
 import showAll from './src/screens/allcontacts';
 export default function App() {
